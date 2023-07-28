@@ -1,0 +1,29 @@
+D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	In function 'main':
+68	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+75	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+82	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+89	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+96	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+103	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+110	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+117	21	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+124	22	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+125	22	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+203	22	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+204	22	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] assignment makes integer from pointer without a cast
+D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	In function 'account':
+276	24	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] comparison between pointer and integer
+D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	In function 'alterfooddetails':
+814	11	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] passing argument 1 of 'add2' from incompatible pointer type
+716	6	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Note] expected 'struct food1 *' but argument is of type 'struct food2 *'
+818	11	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] passing argument 1 of 'add3' from incompatible pointer type
+741	6	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Note] expected 'struct food1 *' but argument is of type 'struct food3 *'
+822	11	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Warning] passing argument 1 of 'add4' from incompatible pointer type
+766	6	D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\13.Food_ordering_sys(1).c	[Note] expected 'struct food1 *' but argument is of type 'struct food4 *'
+C:\Users\SHARON~1\AppData\Local\Temp\ccUZQoZw.o	13.Food_ordering_sys(1).c:(.text+0x15ce): undefined reference to `cart'
+C:\Users\SHARON~1\AppData\Local\Temp\ccUZQoZw.o	13.Food_ordering_sys(1).c:(.text+0x17f4): undefined reference to `cart'
+C:\Users\SHARON~1\AppData\Local\Temp\ccUZQoZw.o	13.Food_ordering_sys(1).c:(.text+0x1a1a): undefined reference to `cart'
+C:\Users\SHARON~1\AppData\Local\Temp\ccUZQoZw.o	13.Food_ordering_sys(1).c:(.text+0x1c40): undefined reference to `cart'
+C:\Users\SHARON~1\AppData\Local\Temp\ccUZQoZw.o	13.Food_ordering_sys(1).c:(.text+0x1eb8): undefined reference to `cart'
+C:\Users\SHARON~1\AppData\Local\Temp\ccUZQoZw.o	13.Food_ordering_sys(1).c:(.text+0x20d8): more undefined references to `cart' follow
+D:\DOCS-SEM2\19CSE102-C+\LAB DOCS\PROJECT\collect2.exe	[Error] ld returned 1 exit status
